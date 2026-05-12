@@ -1,1 +1,1 @@
-# Spider_ml_task_0
+# NEVER USED JUPITER NOTEBOOK I WROTE IN .py and transfered to jupiter .sorry the incovinience 
