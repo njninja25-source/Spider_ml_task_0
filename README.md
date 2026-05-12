@@ -1,1 +1,1 @@
-# NEVER USED JUPITER NOTEBOOK I WROTE IN .py and transfered to jupiter .sorry the incovinience 
+# NEVER USED JUPITER NOTEBOOK I WROTE IN .py and transfered to jupiter .sorry for the incovinience 
